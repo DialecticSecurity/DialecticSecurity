@@ -18,7 +18,7 @@ From documentation to technical controls, we help you meet local and internation
 ### 🤝 One-on-One Tactical Security Session
 Get tailored guidance on your current security posture, risks, and next steps—no jargon, just clarity.
 
-### 🌍 Free NCA / CSC Assessment (Saudi Arabia and UAE)
+### 🌍 Free Compliance Assessment (EU, Saudi Arabia and UAE)
 We’ll evaluate your environment against key regulatory standards in Saudi and the UAE, with zero commitment.
 
 ### 🧪 Application Security Sanity Checks (for Startups and Indie Devs)
