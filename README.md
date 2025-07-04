@@ -26,7 +26,7 @@ You built the app. We’ll help you make sure it doesn’t leak data or crumble 
 
 ## 📞 Contact Us
 
-For more information or to schedule a consultation, please [contact us](mailto:contact@dialecticsecurity.com).
+For more information or to schedule a consultation, please [contact us](mailto:info@dialecticsecurity.com).
 
 ---
 
