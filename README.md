@@ -1,8 +1,8 @@
 # Dialectic Security
 
-## 🇪🇺 EU Compliance Services
+## 🌍 Global Compliance Services
 
-We assist startups and growing teams in navigating the complexities of European cybersecurity regulations. Whether you're preparing for the EU’s [NIS2 Directive](https://nis2directive.eu/what-is-nis2/) or ensuring [GDPR](https://gdpr.eu/) compliance, we provide practical, tailored audits that align with your business needs. Our services include risk assessments, incident response planning, and data protection strategies, all designed to simplify compliance without hindering your growth.
+We assist startups and growing teams in navigating the complexities of cybersecurity regulations across Europe, Saudi Arabia, and the UAE. Whether you're preparing for the EU’s [NIS2 Directive](https://nis2directive.eu/what-is-nis2/), ensuring [GDPR](https://gdpr.eu/) compliance, aligning with Saudi Arabia's [National Cybersecurity Authority (NCA)](https://nca.gov.sa/en/), or adhering to the UAE's [Cybersecurity Council (CSC)](https://csc.gov.ae/en/home), we provide practical, tailored audits that align with your business needs. Our services include risk assessments, incident response planning, and data protection strategies, all designed to simplify compliance without hindering your growth.
 
 ## 🔐 Our Services
 
@@ -12,7 +12,7 @@ Ongoing protection through log analysis, intrusion detection, and alerting—so 
 ### 🎯 Offensive Security and Vulnerability Management
 Simulate real-world attacks before someone else does. We perform targeted penetration tests, threat modeling, and red team exercises to uncover the weaknesses your business can't afford to ignore. Clear findings, actionable fixes—no fluff.
 
-### 📜 EU Compliance Readiness
+### 📜 Compliance Readiness
 From documentation to technical controls, we help you meet local and international cybersecurity requirements with confidence—covering documentation, technical controls, and risk management.
 
 ### 🤝 One-on-One Tactical Security Session
@@ -26,7 +26,7 @@ You built the app. We’ll help you make sure it doesn’t leak data or crumble 
 
 ## 📞 Contact Us
 
-For more information or to schedule a consultation, please [contact us](mailto:info@dialecticsecurity.com).
+For more information or to schedule a consultation, please [contact us](mailto:contact@dialecticsecurity.com).
 
 ---
 
